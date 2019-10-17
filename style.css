@@ -1,0 +1,18 @@
+.start {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.box-password {
+  background-color: #fff;
+  width: 350px;
+  height: auto;
+  color: #000;
+  border: 1px solid #000;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
